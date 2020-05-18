@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "maintask1", "maintask1\maintask1.pyproj", "{5BE3A6CA-3A11-433E-A4D8-0F61B858014C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "maintask2", "maintask2\maintask2.pyproj", "{87E6A3E4-2D5D-4E8F-9D52-D603454F9100}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "maintask3", "maintask3\maintask3.pyproj", "{B7C356B5-AE1D-4A3B-8D79-7AB482E83841}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "extratask1", "extratask1\extratask1.pyproj", "{62DC9E56-7CFB-4581-9A39-89323AD3A842}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "extratask2", "extratask2\extratask2.pyproj", "{650B0CDE-EC5F-4964-B26A-E2D11FD1F895}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "extratask3", "extratask3\extratask3.pyproj", "{7DFC7656-9D40-4833-9866-ACBE447313A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE3A6CA-3A11-433E-A4D8-0F61B858014C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE3A6CA-3A11-433E-A4D8-0F61B858014C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E6A3E4-2D5D-4E8F-9D52-D603454F9100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E6A3E4-2D5D-4E8F-9D52-D603454F9100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C356B5-AE1D-4A3B-8D79-7AB482E83841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C356B5-AE1D-4A3B-8D79-7AB482E83841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DC9E56-7CFB-4581-9A39-89323AD3A842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DC9E56-7CFB-4581-9A39-89323AD3A842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650B0CDE-EC5F-4964-B26A-E2D11FD1F895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650B0CDE-EC5F-4964-B26A-E2D11FD1F895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFC7656-9D40-4833-9866-ACBE447313A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFC7656-9D40-4833-9866-ACBE447313A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D8CE623-F737-4D4C-8B16-27B835C63BEC}
+	EndGlobalSection
+EndGlobal

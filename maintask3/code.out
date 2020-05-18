@@ -1,0 +1,10 @@
+
+def main():
+    fin.open("code.in", "r")
+    for i in fin.readline():
+        pos = i.find("        ans = i[:pos]
+        print(ans)
+
+
+main()
+

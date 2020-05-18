@@ -1,0 +1,17 @@
+#lab 2_5 files main task 2
+#this program was designed to delete coments within a code file
+#
+#version 0.0.1
+#kharlap-Sergey 10701219
+#5/18/2020
+
+def main():
+    fin.open("code.in", "r")
+    for i in fin.readline():
+        pos = i.find("#");
+        ans = i[:pos]
+        print(ans)
+
+
+main()
+
